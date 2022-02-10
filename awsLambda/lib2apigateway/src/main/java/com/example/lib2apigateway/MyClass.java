@@ -1,4 +1,4 @@
-package com.example.lib2apigetway;
+package com.example.lib2apigateway;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.LambdaLogger;
